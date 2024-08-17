@@ -222,5 +222,9 @@
     .main .cards {
       display: none;
     } 
+    .main .greet {
+      margin: 20px 0px 0px 0px;
+      padding: 20px 20px 0 20px;
+    }
   } 
   

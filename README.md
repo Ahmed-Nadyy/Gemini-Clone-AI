@@ -2,6 +2,8 @@
 
 Welcome to the Google Gemini 2.0 Clone! This project is a replica of the Google Gemini 2.0 platform, built using React JS, Tailwind CSS, and the Gemini API. The clone aims to replicate the advanced AI-powered features and dynamic user interface of the original platform.
 
+feel free to try it !! => https://gemini-clone-ahmed-nady.netlify.app/
+
 ## Table of Contents
 
 - [Features](#features)
