@@ -23,9 +23,7 @@ Welcome to the Google Gemini 2.0 Clone! This project is a replica of the Google 
 ## Technologies Used
 
 - **React JS**: For building the front-end interface.
-- **Vite**: Fast and lightweight build tool for modern web projects.
 - **Gemini API**: Powers the AI-driven features of the clone.
-- **Tailwind CSS**: Utility-first CSS framework for responsive design.
 - **CSS/SCSS**: Additional styling for a polished look.
 
 ## Installation
@@ -46,7 +44,7 @@ To set up the project locally, follow these steps:
 
 4. **Start the development server**:
    ```bash
-   npm run dev
+   npm start
 
 5. **Open the application**:
    ```bash
